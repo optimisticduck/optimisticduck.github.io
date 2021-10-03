@@ -1,5 +1,5 @@
 body{
-    margin-top: 5em;
+    margin-top: 10em;
     margin-bottom: 10rem;
 }
 
@@ -13,15 +13,15 @@ body{
   }
 
 #title{
-    font-size: 3.9rem;
+    font-size: 3rem;
 }
 
 #designation{
-font-size: 2rem;
+font-size: 1.5rem;
 }
 
 .subHeading{
-    font-size: 2rem;
+    font-size: 1.5rem;
     }
     
 
