@@ -18,11 +18,11 @@ body{
 
 
 #designation{
-font-size: 1.5rem;
+font-size: 1.9rem;
 }
 
 .subHeading{
-    font-size: 1.5rem;
+    font-size: 1.9rem;
     }
     
 
@@ -35,13 +35,13 @@ font-size: 1.2rem;
 }
 
 .subHeadingDescription>div>div{
-    font-size: 1rem;
+    font-size: 1.2rem;
     margin-top: 1rem;
     
 }
 .subHeadingDescription>div>div>div{
     margin-left: 2rem;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     
 }
 
@@ -53,7 +53,11 @@ font-size: 1.2rem;
 
 
 .categoryNamesDescription{
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     margin-left: 1rem;
 }
 
+.dateActive{
+    font-size: 0.9rem;
+    font-style: italic;
+}
