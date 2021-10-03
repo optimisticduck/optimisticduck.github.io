@@ -1,0 +1,21 @@
+.container{
+    color: rgb(105, 103, 103);
+}
+
+.container a {
+    color: rgb(105, 103, 103);
+    text-decoration: none;
+  }
+
+#title{
+    margin-top: 3em;
+    font-size: 4rem;
+}
+
+#designation{
+font-size: 2rem;
+}
+
+#currentJob{
+font-size: 1.2rem;
+}
