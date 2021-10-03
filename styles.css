@@ -1,3 +1,8 @@
+body{
+    margin-top: 5em;
+    margin-bottom: 10rem;
+}
+
 .container{
     color: rgb(105, 103, 103);
 }
@@ -8,14 +13,45 @@
   }
 
 #title{
-    margin-top: 3em;
-    font-size: 4rem;
+    font-size: 3.9rem;
 }
 
 #designation{
 font-size: 2rem;
 }
 
+.subHeading{
+    font-size: 2rem;
+    }
+    
+
 #currentJob{
 font-size: 1.2rem;
 }
+
+.subHeadingDescription{
+    font-size: 1rem;
+}
+
+.subHeadingDescription>div>div{
+    font-size: 1rem;
+    margin-top: 1rem;
+    
+}
+.subHeadingDescription>div>div>div{
+    margin-left: 2rem;
+    font-size: 0.8rem;
+    
+}
+
+#categoryNames{
+    margin-top: 3em;
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+}
+
+.categoryNamesDescription{
+    font-size: 0.8rem;
+    margin-left: 1rem;
+}
+
