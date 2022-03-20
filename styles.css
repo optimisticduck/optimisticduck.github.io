@@ -17,8 +17,15 @@ body{
 }
 
 
-#designation{
-font-size: 1.9rem;
+.designation{
+    margin-left: 2rem;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+}
+
+.designationDescription{
+    font-size: 0.8rem;
+
 }
 
 .subHeading{
@@ -27,6 +34,7 @@ font-size: 1.9rem;
     
 
 #currentJob{
+    margin-top: 0.8rem ;
 font-size: 1.2rem;
 }
 
@@ -58,6 +66,33 @@ font-size: 1.2rem;
 }
 
 .dateActive{
-    font-size: 0.9rem;
+    display: flex;
+    justify-content: flex-end;
+    font-size: .9rem;
+    margin-left: auto;
+    margin-right: 2rem;
+    margin-bottom: .5rem;
+}
+
+.employerLocation{
+    font-size: 1rem;
     font-style: italic;
+}
+
+.employer{
+    margin-top: 2rem;
+    font-size: 1.5rem;
+}
+
+.publicationDesciption{
+    margin-top: 2rem;
+    font-size: 1rem;
+}
+
+.resumeDownloader{
+    margin-top: 5rem;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
